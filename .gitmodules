@@ -1,0 +1,6 @@
+[submodule "hardhat-simple-storage"]
+	path = hardhat-simple-storage
+	url = https://github.com/PatrickAlphaC/hardhat-simple-storage.git
+[submodule "full-stack-web3-metamask-connectors"]
+	path = full-stack-web3-metamask-connectors
+	url = https://github.com/PatrickAlphaC/full-stack-web3-metamask-connectors.git

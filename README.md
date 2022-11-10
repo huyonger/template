@@ -4,4 +4,5 @@ My template repo
 
 ## dir
 
--   web3-metamask-connectors
+-   full-stack-web3-metamask-connectors
+-   hardhat-simple-storage
