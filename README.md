@@ -6,3 +6,4 @@ My template repo
 
 -   full-stack-web3-metamask-connectors
 -   hardhat-simple-storage
+-   spirng-boot-redis
